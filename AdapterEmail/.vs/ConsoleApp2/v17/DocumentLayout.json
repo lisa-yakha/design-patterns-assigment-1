@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user\\desktop\\c#\\consoleapp2\\consoleapp2\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\googlemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user\\desktop\\c#\\consoleapp2\\consoleapp2\\imailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\imailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user\\desktop\\c#\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\user\\desktop\\c#\\consoleapp2\\consoleapp2\\adaptergooglemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10C045C-F645-4DD8-BF0C-524CB205CB3E}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\adaptergooglemailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdapterGoogleMailServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\AdapterGoogleMailServer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\AdapterGoogleMailServer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\AdapterGoogleMailServer.cs",
+              "RelativeToolTip": "ConsoleApp2\\AdapterGoogleMailServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:01:03.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoogleMailServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\GoogleMailServer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\GoogleMailServer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\GoogleMailServer.cs",
+              "RelativeToolTip": "ConsoleApp2\\GoogleMailServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:00:37.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMailServer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\IMailServer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\IMailServer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\IMailServer.cs",
+              "RelativeToolTip": "ConsoleApp2\\IMailServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:52:18.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C#\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAIAAABEmZmZmZkpwAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:51:17.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
