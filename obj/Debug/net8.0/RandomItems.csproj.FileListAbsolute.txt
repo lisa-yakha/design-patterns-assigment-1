@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\RandomItems\bin\Debug\net8.0\RandomItems.exe
+C:\Users\user\Desktop\C#\RandomItems\bin\Debug\net8.0\RandomItems.deps.json
+C:\Users\user\Desktop\C#\RandomItems\bin\Debug\net8.0\RandomItems.runtimeconfig.json
+C:\Users\user\Desktop\C#\RandomItems\bin\Debug\net8.0\RandomItems.dll
+C:\Users\user\Desktop\C#\RandomItems\bin\Debug\net8.0\RandomItems.pdb
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.dll
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\refint\RandomItems.dll
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.pdb
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\RandomItems.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\RandomItems\obj\Debug\net8.0\ref\RandomItems.dll
