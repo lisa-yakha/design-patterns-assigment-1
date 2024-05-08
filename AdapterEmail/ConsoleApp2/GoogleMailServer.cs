@@ -16,7 +16,7 @@ namespace Adapter
         public void SendEmail(string receiverEmail, string content)
         {
             Console.WriteLine("The email was sent to " + receiverEmail + ".");
-            Console.WriteLine("Content: " + content);
+            Console.WriteLine("Content sent: " + content);
         }
     }
 }
