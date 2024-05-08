@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tr0hZ+7jKUCfGDHsNE1VidEo4x+rAKliZDv3+bqFny3HvxGjvSJtEWumeKGBCI8/OOg2X81bWrRixqR/CyKxfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\C#\\Assignments Design Patterns\\Mediator\\Mediator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
